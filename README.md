@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siva-sankar-k">
+  <a href="https://www.linkedin.com/in/
+sivasankar-k-034222336
+">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ksivasankar765@gmail.com">
